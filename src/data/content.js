@@ -13,7 +13,7 @@ export const siteContent = {
         },
         phone: "(03) 9337 2775",
         fax: "(03) 9337 7858",
-        email: "info@essendonortho.com.au",
+        email: "admin@essendonortho.com",
         hours: {
             weekdays: "Monday - Thursday: 9:00 AM - 4:00 PM",
             friday: "Friday: 9:00 AM - 1:00 PM",
