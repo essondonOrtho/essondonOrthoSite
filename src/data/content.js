@@ -132,7 +132,7 @@ export const siteContent = {
         subtitle:
             "Ready to book an appointment? Call or email our friendly team during clinic hours.",
         practitionerNote:
-            "For medical practitioners: We welcome electronic referrals via Argus (admin@essendonortho.com.au) or Healthlink (e276orth).",
+            "For medical practitioners: We welcome electronic referrals via Argus (Argus@essendonortho.com.au) or Healthlink (e276orth).",
     },
 
     footer: {
