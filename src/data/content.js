@@ -107,12 +107,6 @@ export const siteContent = {
         title: "Why Choose Us",
         items: [
             {
-                title: "Hospital Affiliation",
-                description:
-                    "Affiliated with Mercy Health Werribee, providing access to public hospital services for uninsured patients.",
-                icon: "hospital",
-            },
-            {
                 title: "WorkCover & TAC",
                 description:
                     "We accept WorkCover and TAC patients with short waiting times for appointments.",
@@ -136,9 +130,7 @@ export const siteContent = {
     contact: {
         title: "Contact Us",
         subtitle:
-            "Ready to book an appointment? Get in touch with our friendly team.",
-        formDisclaimer:
-            "We will respond within 48 hours. Information provided does not replace a face-to-face consultation.",
+            "Ready to book an appointment? Call or email our friendly team during clinic hours.",
         practitionerNote:
             "For medical practitioners: We welcome electronic referrals via Argus (argus@essendonortho.com.au) or Healthlink (e276orth).",
     },
