@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [react(), tailwindcss()],
-    // Use '/' for custom domain (essendonortho.com.au), or '/essondonOrthoSite/' for github.io project URL
+    // Use '/' for custom domain (www.essendonortho.com.au), or '/essondonOrthoSite/' for github.io project URL
     base: '/',
 })
